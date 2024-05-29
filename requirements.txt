@@ -1,4 +1,4 @@
 pandas == 2.0.3
 pandasql == 0.7.3
 requests == 2.31.0
-ipykernel
+ipykernel == 6.29.4
