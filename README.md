@@ -41,5 +41,5 @@ CaseEnjoei/
 
 ## Comentários
 
-Optei por utilizar a linguagem python neste projeto com um pouco de SQL, semelhante ao uso que faço do spark no dia a dia, onde parte do desenvolvimento é realizada com pyspark e parte com sparksql. 
+Optei por utilizar a linguagem Python neste projeto com um pouco de SQL, semelhante ao uso que faço do spark no dia a dia, onde parte do desenvolvimento é realizada com pyspark e parte com sparksql. 
 Fiz todo o desenvolvimento com comentários em português, mas mantendo a nomenclatura original das variáveis em inglês, como retornado na API.
