@@ -30,7 +30,7 @@ O objetivo deste projeto é consumir dados de uma API, transformá-los e persist
 
 ## Estrutura do Projeto
 
-fake-store-data-engineering/
+CaseEnjoei/
 ├── data/
 │   └── analise.csv
 ├── src/
