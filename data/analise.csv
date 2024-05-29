@@ -1,6 +1,6 @@
 user_id,user_name,date_last_addition,category,total_products
-1,john doe,2020-03-02T00:00:00.000Z,men's clothing,15
-2,david morrison,2020-03-01T00:00:00.000Z,men's clothing,12
-3,kevin ryan,2020-03-01T00:00:00.000Z,men's clothing,24
-4,don romer,2020-03-01T00:00:00.000Z,jewelery,4
-8,william hopkins,2020-03-01T00:00:00.000Z,men's clothing,2
+1,john doe,2020-03-02T00:00:00.000Z,men's clothing,25
+2,david morrison,2020-03-01T00:00:00.000Z,men's clothing,2
+3,kevin ryan,2020-01-01T00:00:00.000Z,men's clothing,4
+4,don romer,2020-03-01T00:00:00.000Z,electronics,5
+8,william hopkins,2020-03-01T00:00:00.000Z,women's clothing,1

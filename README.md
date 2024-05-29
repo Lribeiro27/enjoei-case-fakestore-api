@@ -1,13 +1,13 @@
-# Fake Store Data Engineering Challenge
+# Case Engenharia de Dados - FakeStore API
 
 Este projeto é parte do teste técnico para a vaga de engenheiro de dados júnior.
 
 ## Descrição
 
 O objetivo deste projeto é consumir dados de uma API, transformá-los e persistí-los em um arquivo CSV. O arquivo final contém as seguintes informações:
-- Identificador de usuário
-- Data mais recente em que o usuário adicionou produtos ao carrinho
-- Categoria em que o usuário tem mais produtos adicionados ao carrinho
+- Identificador de usuário.
+- Data mais recente em que o usuário adicionou produtos ao carrinho.
+- Categoria em que o usuário tem mais produtos adicionados ao carrinho.
 
 ## Como Executar
 
@@ -30,6 +30,7 @@ O objetivo deste projeto é consumir dados de uma API, transformá-los e persist
 
 ## Estrutura do Projeto
 
+```plaintext
 CaseEnjoei/
 ├── data/
 │   └── analise.csv
@@ -41,5 +42,6 @@ CaseEnjoei/
 
 ## Comentários
 
-Optei por utilizar a linguagem Python neste projeto com um pouco de SQL, semelhante ao uso que faço do spark no dia a dia, onde parte do desenvolvimento é realizada com pyspark e parte com sparksql. 
-Fiz todo o desenvolvimento com comentários em português, mas mantendo a nomenclatura original das variáveis em inglês, como retornado na API.
+Optei por utilizar a linguagem Python neste projeto e uma pequena parte em SQL, semelhante ao uso que faço do spark no dia a dia, onde parte do desenvolvimento é realizada com pyspark e parte com sparksql. 
+Fiz todo o desenvolvimento em português incluindo comentários, mas mantendo a nomenclatura original das variáveis em inglês, como retornado na API.
+Os detalhes sobre a execução de cada célula estão no Notebook.
